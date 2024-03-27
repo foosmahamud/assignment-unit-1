@@ -22,7 +22,7 @@ main {
  }
 
 /* Make your p tag a different color and italic */
- .P {
+ P {
   
     color: red;
     font-size: italic;
@@ -30,15 +30,16 @@ main {
 
 
 /* Put a border around your image */
- .img {
-
+ img {
+width: 200px;
+height: auto;
     border-color: red;
  }
 
 /* Change the font-family of your list */
  
 ul, ol {
-    font-family: color-scheme: blue;
+    font-family:  blue;
 }
 /* Add a background color to the footer element */
 
@@ -47,4 +48,4 @@ footer {
     background-color: #6666;
 
 }
-    
+

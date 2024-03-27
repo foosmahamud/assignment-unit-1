@@ -1,4 +1,4 @@
-console.log('hello World.js');
+console.log('helloWorld.js');
 
 // Variables  and datatypes
 
