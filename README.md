@@ -60,9 +60,8 @@ Inside of the `index.html` file are comments with tasks for you to complete. Wri
 
 ```HTML
 <!-- Create a header with an h1 containing your name -->
-
 <header>
-  <h1>Your Name Here</h1>
+  <h1>Foos</h1>
 </header>
 ```
 
